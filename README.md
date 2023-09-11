@@ -1,36 +1,37 @@
-# Autor (onfly-expenses-quasar)
-```
-Feito por: Raphael Melo
-Linkedin: https://www.linkedin.com/in/raphael-douglas-71375215a/
-```
-# Quasar App (onfly-expenses-quasar)
+## Onfly Quasar Expenses
 
-```
-Aplicação de despesas realizada para teste técnico da: `https://www.onfly.com.br/`.
-```
+Esse projeto foi desenvolvido para participar da etapa técnica do processo seletivo da Onfly (<https://www.onfly.com.br/>).
 
-## Install the dependencies
+
+### Pré-requisitos
+Antes de começar, verifique se você atende aos seguintes requisitos:
+
+- **Node JS 16.20** instalado e configurado em sua máquina.
+- Conhecimentos básicos de JavaScript.
+- Conhecimentos básicos de Quasar.
+
+### Instalando as dependências
 ```bash
 yarn
 # or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Iniciando o app em `development mode` (hot-code reloading, error reporting, etc.)
 ```bash
 npm run dev
 ```
 
-### Only compile for production bellow !!!
+## Compilando o app para `production`
 
-### Lint the files
+### Usando `Lint` nos arquivos
 ```bash
 yarn lint
 # or
 npm run lint
 ```
 
-### Build the app for production
+### Gerando `build` para publicação
 ```bash
 quasar build
 ```
