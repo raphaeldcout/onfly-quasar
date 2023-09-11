@@ -7,8 +7,8 @@ Esse projeto foi desenvolvido para participar da etapa técnica do processo sele
 Antes de começar, verifique se você atende aos seguintes requisitos:
 
 - **Node JS 16.20** instalado e configurado em sua máquina.
-- Conhecimentos básicos de JavaScript.
-- Conhecimentos básicos de Quasar.
+- Conhecimentos básicos de **JavaScript**.
+- Conhecimentos básicos de **Quasar V1**.
 
 ### Instalando as dependências
 ```bash
